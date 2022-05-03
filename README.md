@@ -4,13 +4,7 @@
 
 #### Um pouco sobre mim
 
-- 🔥 Trabalho atuamente na [Queima Diária](https://www.queimadiaria.com/)
-- ✨ Entusiasta front-end, estou sempre lendo e estudando sobre o assunto, mas não me limito a isso apenas
+- 🔥 Trabalho atualmente na [Queima Diária](https://www.queimadiaria.com/)
+- ✨ Entusiasta front-end, estou sempre lendo e estudando sobre o assunto, mas não me limito apenas a isso
 - 💻 Tecnologias mais presentes no meu dia a dia: `React`, `React Native`, `React Native Web`, `Typescript`, `Styled components`
 - 🎮 E um pouco mais pessoal, gosto bastante de video games, estou sempre jogando quando posso
-
-<br />
-
-<a href="https://github.com/yuriazevedo11?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuriazevedo11&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
