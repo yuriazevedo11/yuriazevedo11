@@ -1,4 +1,4 @@
-### E aí galera <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="Emoji balançando a mão">
+### E aí galera <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="Emoji balançando a mão">
 
 #### Prazer, Yuri. Sou desenvolvedor Front-end, atualmente trabalhando remotamente do Rio de Janeiro
 
