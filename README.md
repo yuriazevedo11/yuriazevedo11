@@ -8,3 +8,4 @@
 - ✨ Entusiasta front-end, estou sempre lendo e estudando sobre o assunto, mas não me limito apenas a isso
 - 💻 Tecnologias mais presentes no meu dia a dia: `React`, `React Native`, `React Native Web`, `Typescript`, `Styled components`
 - 🎮 E um pouco mais pessoal, gosto bastante de video games, estou sempre jogando quando posso
+- 🏋🏻 Também não podem faltar as atividades físicas, as mais recorrentes são: andar de bike, academia e futebol
